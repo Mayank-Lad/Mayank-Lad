@@ -1,9 +1,7 @@
+
 <h1 align="center">Hello 👋, I'm Mayank Lad</h1>
 <h3 align="center">am A Creative and An Aspiring Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/114632144/247147790-bce00415-6208-4c00-9ee3-a0ff5fe8d0a0.gif
-">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-lad&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-lad" /> </p>
-
 
 - 🌱 I’m currently learning **Android Dev**
 
