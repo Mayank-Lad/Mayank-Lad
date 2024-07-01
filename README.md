@@ -1,9 +1,9 @@
 ![animation](https://github.com/Mayank-Lad/Mayank-Lad/assets/114632144/a469e612-ab6a-4c3c-a044-dfa85b9b90a3)
 <h1 align="center">Hello 👋, I'm Mayank Lad</h1>
-<h3 align="center">I am A Creative and An Aspiring Data Scientist from India</h3>
+<h3 align="center">I am A Creative developer and An Aspiring Data Scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-lad&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-lad" /> </p>
 
-- 🌱 I’m currently learning **Android Dev**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 Here's My Website [https://mayank-lad.github.io/portfolio_website/](https://mayank-lad.github.io/portfolio_website/)
 
